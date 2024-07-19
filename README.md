@@ -1,2 +1,2 @@
-# P5
-this is P6 group
+This is read me file
+welcome to P6 practical class
